@@ -1,0 +1,96 @@
+body {
+	padding-left:15%;
+	padding-right:15%;
+}
+
+.container {
+	height:150px;
+}
+
+.pic {
+	width:150px;
+	height:150px;
+	border-radius: 25px;
+	float: left;
+}
+.name {
+	float: left;
+}
+.info {
+	display:block;
+	float:right;
+	list-style-type: none;
+	line-height: 1.5em;
+	margin-top: 20px;
+	color: #666;
+	margin-right:20px;
+}
+
+h1 {
+	height:23px;
+	margin-left:30px;
+	margin-top:35px;	
+	color: #666;
+	font-family:ubuntu;
+}
+h2 {
+	color: #6495ED;
+	text-align:center;
+	font-weight: bold;
+	font-family:ubuntu;
+}
+h3 {
+	margin-left:30px;	
+	color: #6495ED;
+	font-family:ubuntu;
+}
+p {
+	font-family:ubuntu;
+	color: #808080;
+}
+li {
+	font-family:ubuntu;
+}
+#container2 p{	
+	font-weight: bold;
+	color:#404040;	
+}
+
+#container2 i {
+	font-size:15px;
+	font-weight: normal;
+}
+
+.skills ul li{
+	display:inline;
+	padding-left:30px;
+	list-style-type: none;
+}
+
+.institute {
+	font-size:20px;
+	float:left;
+	height:40px;
+}
+
+#year p{
+	float:right;
+	margin:20px;
+	font-size:15px;
+}
+
+#container2 {
+	height:30px;
+}
+
+.glyphicon-small {
+    font-size: 1.2em;
+}
+
+#desc {
+	padding-left:10px;
+	color:#505050;
+}
+#title {
+	font-size:14px;
+}
